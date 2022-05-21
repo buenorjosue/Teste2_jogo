@@ -8,7 +8,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # This program built for i686-pc-msys
  
 
-# Make data base, printed on Sat May 21 03:45:54 2022
+# Make data base, printed on Sat May 21 03:55:59 2022
 
 # Variables
 
@@ -55,7 +55,7 @@ PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-abf5d3e8-bc60-46b5-9401-305ccccc5738-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-3d18eea1-ca41-4143-bcc6-434608ec9d87-sock
 # environment
 VSCODE_CWD = C:\Users\marci\AppData\Local\GitHubDesktop\app-3.0.0
 # environment
@@ -81,7 +81,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_5048_AALVUQHIAKOUQUHA
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_10868_NTEQHGUVWZVDBVFS
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -195,7 +195,7 @@ PROCESSOR_LEVEL = 6
 # environment
 TERM = cygwin
 # environment
-VSCODE_PID = 5048
+VSCODE_PID = 10868
 # environment
 USERDOMAIN_ROAMINGPROFILE = LAPTOP-12BJ2CN0
 # variable set hash-table stats:
@@ -280,6 +280,6 @@ Makefile:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Sat May 21 03:45:54 2022
+# Finished Make data base on Sat May 21 03:55:59 2022
 
  
