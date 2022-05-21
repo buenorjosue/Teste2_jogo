@@ -1,0 +1,4 @@
+make.exe: Entering directory `/c/Users/marci/OneDrive/Documentos/Algoritmos 2021/Teste2_jogo'
+gcc -Isrc/Include -Lsrc/lib -o main main.c -lmingw32 -lSDL2main -lSDL2
+make.exe: Leaving directory `/c/Users/marci/OneDrive/Documentos/Algoritmos 2021/Teste2_jogo'
+ 
