@@ -1,11 +1,12 @@
 #include <SDL2/SDL.h>
+#include <SDL2/SDL_image.h>
 #include <stdio.h>
 
 //Dimensões constantes da Tela
 const int SCREEN_WIDTH = 800;
 const int SCREEN_HEIGHT = 600;
 
-int main( int argc, char* args[] )
+/*int main( int argc, char* args[] )
 {
     //A janela que estará sendo renderizada
     SDL_Window* window = NULL;
@@ -45,4 +46,9 @@ int main( int argc, char* args[] )
     SDL_Quit();
 
     return 0;
-}
+}*/
+
+int init();
+int loadMedia();
+void closeWindow();
+
